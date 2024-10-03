@@ -39,4 +39,4 @@ let code3 = 44- 5;  //let num -num =39;
 // result of the message  and showing the message on the console 
 
 
-alert (userMessage + "/n" + code1 + " " + code2 + " " + code3)
+alert (userMessage + "\n" + code1 + " " + code2 + " " + code3)
