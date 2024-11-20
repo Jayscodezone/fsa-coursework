@@ -30,3 +30,13 @@ const concatOdds (array1, array2);
 //Expect results of the array to only be odd numbers. 
 
 // Functional Test
+// Expect the user to check out as either a guest or a signed in user account 
+//Expect the guest user to have an ability to create a login account 
+// Expect the shopping cart to have products for purchase before having the action to checkout 
+// Expect the action after the completion of the purchase the screen will sent to the payment website
+//Expect the payment for product purchases to be Visa, Paypal, or Affirm 
+//Expect the completion of payment to route to the review summary page for the purchase 
+// Expect if there is failure in payment that the payment page request another method of payment 
+// Expect if there is a network error the shopping cart will reserve the items for purchase 
+// Expect if there is an expired session to prompt users to login to their account 
+
